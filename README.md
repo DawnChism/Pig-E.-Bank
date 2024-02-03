@@ -19,6 +19,19 @@ The data was analyzed using Python and the following libraries:
 
 ● Numpy: for mathematical equations
 
+## Folders
+The project files are divided between the following folders:
+
+● 01 Project Management: Project Brief
+
+● 02 Data: Separated into two subfolders Original and Prepared Data. These contain the original data frame and the data frame after it has been cleaned and prepared for analysis. (Data files not uploaded to GitHub.)
+
+● 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
+
+● 04 Analysis: Contains the subfolder Visualizations which contains the decision tree.
+
+● 05 Sent to Client: The final report presented in Excel.
+
 ## Visualizations
 The decision tree was created using Canva and may be viewed in the attached [Canva Whiteboard](https://www.canva.com/design/DAF6WZpQH2M/z-5dphFqDTF96lBh3qRzZg/view?utm_content=DAF6WZpQH2M&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
